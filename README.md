@@ -1,4 +1,4 @@
-# PRODIGY_WD_03
+
 # 🎮 Tic Tac Toe Web Application
 
 ## ✨ Features
@@ -35,11 +35,7 @@ PRODIGY_WD_03/
 2. Open `index.html`
 3. Play the game in your browser
 
-## 📌 Internship Task
 
-This project was developed for:
-
-**Prodigy InfoTech Web Development Internship — Task 03**
 
 ## 👨‍💻 Author
 
